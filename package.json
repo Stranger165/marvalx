@@ -1,7 +1,7 @@
-{
+
     "name": "marvalx",
-     "version": "2.6.18",
-    "description": "Tiny millisecond conversion utility",
+     "version": "2.7.9",
+    "description": "A best api ever",
     "main": "index.js",
     "author": {
       "name": "saajith69"
@@ -13,6 +13,10 @@
   ],
   "repository": {
     "url": "https://github.com/Stranger165/marvalx"
+},
+
+"engines": {
+  "node": ">=16.6.0"
 },
 
 
